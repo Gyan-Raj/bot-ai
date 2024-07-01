@@ -1,0 +1,30 @@
+.primary {
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  width: auto;
+  background: linear-gradient(0deg, #d7c7f4, #d7c7f4),
+    linear-gradient(0deg, #d7c7f4, #d7c7f4),
+    linear-gradient(0deg, #d7c7f4, #d7c7f4),
+    linear-gradient(0deg, #d7c7f4, #d7c7f4);
+  cursor: pointer;
+  border: 0;
+  color: rgba(65, 65, 70, 1);
+  font-family: Ubuntu;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 18.38px;
+  text-align: left;
+}
+.secondary {
+  border: 0;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  width: auto;
+  color: black;
+
+  background: linear-gradient(0deg, #d7c7f4, #d7c7f4),
+    linear-gradient(0deg, #d7c7f4, #d7c7f4),
+    linear-gradient(0deg, #d7c7f4, #d7c7f4),
+    linear-gradient(0deg, #d7c7f4, #d7c7f4);
+}

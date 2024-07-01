@@ -1,0 +1,46 @@
+.chatbox {
+  height: 100vh;
+  width: 83.75vw;
+}
+.topContainer {
+  height: 50vh;
+  width: 83.75vw;
+  padding: 5rem;
+}
+
+.help {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.help > p {
+  font-family: Ubuntu;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 32.17px;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.middleContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 40vh;
+  width: 83.75vw;
+  gap: 1rem;
+}
+.button {
+  height: 45%;
+  width: 45%;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+}
+.bottomContainer {
+  height: 10vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
